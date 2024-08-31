@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang='en'>
+    <head>
+        <meta charset="UFT-8">
+        <meta name="viewport" content="width=device-width,initial-scale=1.0">
+        <meta name="description" content="page of trusted leader in VPN">
+        <title>Landing demo</title>
+        <link rel="icon" href="C:\Users\tejas\Downloads\html.ico" type="image/x-icon">
+        <link rel="stylesheet" href="C:\Users\tejas\OneDrive\Desktop\html\css_landing.css">
+    </head>
+    <body>
+        <header>
+            <h4>ExpressVPN</h4>
+            <center>
+                <h1>The VPN that just works</h1>
+                <h4>Go furture with the #1 trusted leader in VPN</h4>
+                <form>
+                    <button type="submit">Get ExpressVPN</button>
+                </form>
+                <h6>30-Days money-back Gaurantee</h6>
+            </center>
+        </header>
+        <br>
+        <hr>
+
+        <div style="margin-top: 30px;">
+        <section>
+            <img align="left" src="C:\Users\tejas\OneDrive\Desktop\vpn security.jpg" alt="security of VPN" width="300">
+            <h2 style="position: relative; top:10px; left:70px">Secure access,WorldWide</h2>
+            <h4 style="position: relative; top:10px; left:70px"><p>Connect reliably from anywhere, to anywhere. Our network of high-speed servers across 94 countries puts you in control.</p></h4>
+            <form>
+                <button style="position: relative; top: 20px; left: 70px">Get ExpressVPN</button>
+            </form>
+        </section>
+    </div>
+        <br>
+<div style="margin-top: 200px;">
+        <section>
+            <img align="right" src="C:\Users\tejas\OneDrive\Desktop\safe.jpg" alt="safe internet" width="300">
+            <h2 style="position: relative; top:10px; left:650px">click to a safer internet</h2>
+            <h4 style="position: relative; top:10px; left:10px"><p>Whether you're shooping from your desk or just connecting at a cofe, keep your personal information more private and secure.</p></h4>
+            <form>
+                <button style="position: relative; top: 20px; left:720px">Get ExpressVPN</button>
+            </form>
+        </section>
+        <br>
+    </div>
+<div style="margin-top: 200px;">
+        <section>
+            <img align="left" src="C:\Users\tejas\OneDrive\Desktop\use.jpg" alt="use ExpressVPN" width="300">
+            <h2 style="position: relative; top:10px; left:70px">Use ExpressVPN on every device</h2>
+            <h4 style="position: relative; top:10px; left:70px"><p>Phone, computer-no matter where you are a single ExpressVPN subscription has got you covered.</p></h4>
+            <form>
+                <button style="position:relative; top:10px; left: 70px">Get ExpressVPN</button>
+            </form>
+        </section>
+    </div>
+
+<div style="margin-top:200px;">
+        <section>
+            <div style="text-align: left"><img src= "C:\Users\tejas\OneDrive\Desktop\lock.jpg" alt="security" width="200px"/>
+            <h2>Stronger data protection</h2>
+            <h4>Take change of your online privacy and security with best-in-class encryption</h4></div>
+            <div style="text-align: center"><img src="C:\Users\tejas\OneDrive\Desktop\work.png" alt="work" width="200px"/>
+            <h2>Works seamlessly everywhere</h2>
+            <h4>Experience the internet the way it's meant to be. On the go, or on your couch.</h4></div>
+            <div style="text-align: right"><img src="C:\Users\tejas\OneDrive\Desktop\light.jpg" alt="light" width="200px"/>
+            <h2>Lightning-quick connectivity</h2>
+            <h4>Our VPN network is built for speed, powered by next-generation technology.</h4></div>
+        </section>
+    </div>
+
+<div style="margin-top:100px;">
+        <section>
+            <center>
+                <p><a href="see more advantages">see more advantages ></a></p>
+                <img src="C:\Users\tejas\OneDrive\Desktop\map.jpg" alt="map" width="800px">
+                <p><a href="see our full list of VPN server location">See our full list of VPN server location</a></p>
+            </center>
+        </section>
+    </div>
+    </body>

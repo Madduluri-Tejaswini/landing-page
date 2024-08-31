@@ -1,0 +1,43 @@
+body{
+        font-family:'poppins', sans-serif;
+        background-color: bisque;
+        color:black;
+        line-height:1.6;
+        margin:50px;
+        padding:50px;
+}
+h2{
+    font-weight:700;
+}
+p{
+    font-weight:400;
+}
+a{
+    color:rgb(0, 106, 255);
+    text-decoration:none;
+}
+a:nover{
+    color:#0056b3;
+    text-decoration: underline;
+}
+form button{
+    background: #03655e;
+    color:black;
+    border:0;
+    padding: 10px 20px;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 18px;
+}
+form button:hover{
+    background:#0056b3;
+}
+header{
+    background:linear-gradient(to right,#831bcb,#f9620b);
+    color:#fff;
+    text-align: center;
+    padding: 40px 0;
+}
+
+
+
